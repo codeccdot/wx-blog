@@ -1,0 +1,23 @@
+#add{
+  text-decoration: none;
+  list-style: none;
+  position: absolute;
+  top: 200px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  left: 200px;  width: 360px;
+  padding: 0;
+  margin: 0;
+
+}
+.button{
+position: relative;
+left: 30px;
+top: 30px;
+}
+.button:nth-child(1){
+position: relative;
+left: 50px;
+
+}
